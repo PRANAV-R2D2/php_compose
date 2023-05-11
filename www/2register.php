@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Registration Form</title>
+	<title>Registrattion Form</title>
 	<style>
 		form {
 			width: 50%;
