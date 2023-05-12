@@ -32,7 +32,9 @@ CREATE TABLE users (
 
 INSERT INTO users (username, password) VALUES
     ('chirag', 'chirag'),
-    ('pranav', 'pranav');
+    ('username2', 'password2'),
+    ('username3', 'password3');
+
 
 
  
