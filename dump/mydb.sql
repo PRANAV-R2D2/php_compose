@@ -99,3 +99,20 @@ CREATE TABLE womenswear (
     description TEXT,
     date_added DATE
 );
+INSERT INTO electronics (id, product_name, brand, category, price, description, date_added)
+    VALUES
+    (1, 'iPhone 13 Pro', 'Apple', 'Smartphones', 999.99, 'The latest iPhone with advanced features', '2023-05-09'),
+    (2, 'Samsung Galaxy S22', 'Samsung', 'Smartphones', 899.99, 'The latest Samsung flagship phone', '2023-05-09'),
+    (3, 'MacBook Air M2', 'Apple', 'Laptops', 1299.99, 'The latest MacBook Air with M2 chip', '2023-05-09'),
+    (4, 'Dell XPS 13', 'Dell', 'Laptops', 1099.99, 'Powerful and lightweight laptop', '2023-05-09'),
+    (5, 'Sony WH-1000XM4', 'Sony', 'Headphones', 349.99, 'Wireless noise-cancelling headphones', '2023-05-09'),
+    (6, 'Bose QuietComfort Earbuds', 'Bose', 'Headphones', 249.99, 'Wireless noise-cancelling earbuds', '2023-05-09'),
+    (7, 'iPad Pro', 'Apple', 'Tablets', 799.99, 'The latest iPad with M1 chip', '2023-05-09'),
+    (8, 'Samsung Galaxy Tab S8', 'Samsung', 'Tablets', 599.99, 'The latest Samsung tablet with AMOLED display', '2023-05-09'),
+    (9, 'Nintendo Switch OLED', 'Nintendo', 'Gaming Consoles', 349.99, 'The latest Nintendo Switch with OLED display', '2023-05-09'),
+    (10, 'Xbox Series X', 'Microsoft', 'Gaming Consoles', 499.99, 'The latest Xbox console with 4K gaming', '2023-05-09'),
+    (11, 'Sony A7 IV', 'Sony', 'Cameras', 2199.99, 'The latest Sony mirrorless camera', '2023-05-09'),
+    (12, 'Canon EOS R5', 'Canon', 'Cameras', 3699.99, 'The latest Canon mirrorless camera', '2023-05-09'),
+    (13, 'LG C1 OLED TV', 'LG', 'TVs', 1899.99, 'The latest LG OLED TV with HDMI 2.1', '2023-05-09'),
+    (14, 'Sony Bravia XR A90J', 'Sony', 'TVs', 2799.99, 'The latest Sony OLED TV with cognitive processor XR', '2023-05-09'),
+    (15, 'Sonos Beam', 'Sonos', 'Speakers', 399.99, 'Smart soundbar with Alexa built-in', '2023-05-09');
