@@ -72,10 +72,10 @@
         </tr>
         <?php
         // Connect to MariaDB
-        $servername = "localhost";
-        $username = "root";
-        $password = "Devops@123";
-        $dbname = "mydatabase";
+        $servername = "10.47.35.181";
+        $username = "devops";
+        $password = "devops";
+        $dbname = "devops";
 
         // Create connection
         $conn = new mysqli($servername, $username, $password, $dbname);
