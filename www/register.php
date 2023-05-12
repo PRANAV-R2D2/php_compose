@@ -48,10 +48,10 @@
         <?php
         if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 // Connect to MySQL database
-                $servername = "localhost";
-                $username = "root";
-                $password = "Devops@123";
-                $dbname = "mydatabase";
+                $$servername = "10.47.35.181";
+        $username = "devops";
+        $password = "devops";
+        $dbname = "devops";
                 $conn = new mysqli($servername, $username, $password, $dbname);
 
                 // Check connection
