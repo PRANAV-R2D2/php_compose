@@ -17,7 +17,7 @@
         <?php
                 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         // Connect to MySQL database
-                        $servername = "10.47.34.129";
+                        $servername = "10.47.35.181";
                         $username = "devops";
                         $password = "devops";
                         $dbname = "devops";
