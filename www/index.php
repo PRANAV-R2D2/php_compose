@@ -38,7 +38,7 @@
 
                         if ($result->num_rows > 0) {
                                 // Redirect to login success page
-                                header('Location: login_success.php');
+                                header('Location: login.php');
                         } else {
                                 echo "<p>Invalid username or password!</p>";
                         }
