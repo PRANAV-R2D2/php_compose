@@ -1,4 +1,4 @@
-#Base image
+#Base imageee
 FROM php:7.2-apache
 
 #Install musqli
