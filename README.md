@@ -1,1 +1,2 @@
-# php_compose
+# LAMP architecture Deployment
+
